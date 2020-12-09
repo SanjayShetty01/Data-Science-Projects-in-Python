@@ -91,12 +91,3 @@ Example:
        369851    0.018528
        Name: compliance, dtype: float32
        
-### Hints
-
-* Make sure your code is working before submitting it to the autograder.
-
-* Print out your result to see whether there is anything weird (e.g., all probabilities are the same).
-
-* Generally the total runtime should be less than 10 mins. You should NOT use Neural Network related classifiers (e.g., MLPClassifier) in this question. 
-
-* Try to avoid global variables. If you have other functions besides blight_model, you should move those functions inside the scope of blight_model.
